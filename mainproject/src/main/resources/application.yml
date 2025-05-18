@@ -1,0 +1,6 @@
+quarkus:
+  application:
+    name: "myname"
+  package:
+    jar:
+      type: uber-jar

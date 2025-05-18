@@ -1,0 +1,17 @@
+!/gradle/wrapper/gradle-wrapper.jar
+*.jar
+*.log
+*.log.*
+*.war
+.env*
+.gradle/
+.history
+.idea/
+.project
+.quarkus/
+.settings
+.vscode
+bin/
+build/
+out/
+tmp/
